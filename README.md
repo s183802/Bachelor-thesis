@@ -1,6 +1,6 @@
 # Bachelor-thesis
 
-This repository is the product of Tobias V. R. Jensen's work on his Bachelor thesis.
+This repository is the product of Tobias V. R. Jensen's Bachelor thesis. It is part of the Appendix for the report. 
 
 The repository is build on Matthias Wiesenberger's Advection respoitories: 
 https://github.com/mwiesenberger/advection.git
