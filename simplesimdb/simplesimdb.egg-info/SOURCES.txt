@@ -1,0 +1,7 @@
+README.md
+setup.cfg
+setup.py
+simplesimdb.egg-info/PKG-INFO
+simplesimdb.egg-info/SOURCES.txt
+simplesimdb.egg-info/dependency_links.txt
+simplesimdb.egg-info/top_level.txt
