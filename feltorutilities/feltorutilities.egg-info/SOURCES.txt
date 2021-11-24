@@ -1,0 +1,7 @@
+README.md
+setup.cfg
+setup.py
+feltorutilities.egg-info/PKG-INFO
+feltorutilities.egg-info/SOURCES.txt
+feltorutilities.egg-info/dependency_links.txt
+feltorutilities.egg-info/top_level.txt
